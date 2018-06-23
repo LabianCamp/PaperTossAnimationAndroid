@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CardViewSlider</string>
+    <integer name="swing_anim_time">750</integer>
+</resources>
